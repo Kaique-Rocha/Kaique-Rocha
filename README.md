@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Kaique Rocha 😁
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Rocha&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Rocha&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -10,6 +10,8 @@
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
+
+<br>
 
 ### Para Contato Segue as redes Sociais!
 
